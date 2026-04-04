@@ -7,7 +7,7 @@
 ## 👋 Hey, I'm Nathan
 
 **Senior Frontend Engineer (Product) · Storyblok**  
-Sheffield, UK &nbsp;·&nbsp; [linkedin.com/in/nuxd](https://www.linkedin.com/in/nuxd/)
+United Kingdom &nbsp;·&nbsp; [linkedin.com/in/nuxd](https://www.linkedin.com/in/nuxd/)
 
 ---
 
