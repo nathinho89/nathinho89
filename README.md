@@ -51,7 +51,7 @@ Figma · Prototyping · Component libraries · Design system governance
 
 ## Certifications
 
-- **Vue.js Certified** · Vue School / Vue.js Official Certification
+- **Vue.js & Vue.js Senior Certified** · Vue School / Vue.js Official Certification
 - **Google UX Design** · Coursera / Google
 
 ---
