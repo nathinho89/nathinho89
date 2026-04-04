@@ -39,7 +39,7 @@ Tailwind CSS · CSS Modules · SCSS · CSS custom properties · BEM
 Storyblok · Headless CMS architecture · REST APIs
 
 **Tooling & DX**  
-NX · pnpm · ESLint · Git · GitHub Actions · CI pipelines · and others
+pnpm · ESLint · Git · GitHub Actions · CI pipelines · NX · + many others
 
 **Testing**  
 Vitest · Cypress · Testing Library · Component testing
