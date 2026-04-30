@@ -1,12 +1,12 @@
 ```
-╔══════════════════════════════════════════════════════════════╗
-║   PRODUCT ENGINEER  ·  FRONTEND  ·  UX  ·  SERVICE DESIGN   ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║   SENIOR PRODUCT ENGINEER II ·  FRONTEND  ·  UX  ·  SERVICE DESIGN   ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 ## 👋 Hey, I'm Nathan
 
-**Senior Frontend Engineer (Product) · Storyblok**  
+**Senior Frontend Engineer II (Product) · Storyblok**  
 United Kingdom &nbsp;·&nbsp; [linkedin.com/in/nuxd](https://www.linkedin.com/in/nuxd/)
 
 ---
