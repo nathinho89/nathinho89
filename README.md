@@ -88,7 +88,6 @@ Started as a designer and developer and progressed to Operations Director over a
 ---
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuxd/)
-[![Vue.js Certified](https://img.shields.io/badge/Vue.js-Certified-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://certificates.vueschool.io)
-[![Google UX Design](https://img.shields.io/badge/Google_UX_Design-Certified-4285F4?style=flat-square&logo=google&logoColor=white)](https://coursera.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
-[![Storyblok](https://img.shields.io/badge/Storyblok-09B3AF?style=flat-square&logo=storyblok&logoColor=white)](https://storyblok.com)
+[![Vue.js Senior Certified](https://img.shields.io/badge/Vue.js-Certified-4FC08D?style=flat-square&logo=vue.js&logoColor=white)]([https://certificates.vueschool.io](https://api.certificates.dev/certificates/9db9a9eb-cf5b-400f-8176-0ec1207055ba/download?signature=653563e756ad6b5e202b311ed53a0cbdc3a871f980192bdce418f31528fef8f5))
+[![Vue.js Certified](https://img.shields.io/badge/Vue.js-Certified-4FC08D?style=flat-square&logo=vue.js&logoColor=white)]([https://certificates.vueschool.io](https://api.certificates.dev/certificates/9c449730-1932-48f3-a8cb-4dc649331499/download?signature=3a4ff46f75740fac1055ecbdbda3c6d8026011b27d3e5027b1043d5e9ed32c45))
+[![Google UX Design Certified](https://img.shields.io/badge/Google_UX_Design-Certified-4285F4?style=flat-square&logo=google&logoColor=white)]([https://coursera.org](https://www.credly.com/badges/39f54981-b784-440f-9f32-ebfa6d197c6e?source=linked_in_profile))
